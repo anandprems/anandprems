@@ -21,17 +21,31 @@ Got addiction in learning Statistics, Machine Learning and Python, You can ask m
 
 **About my hobbies,**
 
-*YouTuber (Recently) 
+* YouTuber (Recently) 
 
-*Scribbling (in Tamil i call it as KIRUKKAL) 
+* Scribbling (in Tamil i call it as KIRUKKAL) 
 
-*Cooking (sometimes feedback makes me budding chef too) 
+* Cooking (sometimes feedback makes me budding chef too) 
 
-*during pandemic time its full time with my son (literally he is not leaving me alone)
+* during pandemic time its full time with my son (literally he is not leaving me alone)
 
-*last but not the least music lover (especially OSTs or in local we call it as BGMs) 
+* last but not the least music lover (especially OSTs or in local we call it as BGMs) 
 
 and lastly driving out with my family
+
+**About my goal / ambition / Wish (Aasai),**
+
+* Special word before my name - "Dr."
+
+* One unique book with good recognition, in Data Science related
+
+* Online Mentor for courses like in Udemy (Atleast one course related to Data Science)
+
+* Abroad visit exclusively for education related excluding family trip thats another goal
+
+* One lovely house with one car
+
+* lastly a good father and a good family man to be happy and to make happy
 
 **Some points to be added,**
 
