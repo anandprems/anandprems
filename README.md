@@ -6,16 +6,21 @@ I am Premanand S, Researcher / Teacher by profession. Love to teach and also lov
 
 **About my experience,**
 
-I have experience about 7+ expeience in teaching domain as Assistant Professor
-I have good experience in R&D domain also
-Most importantly as years passing on I am gaining patience and thirst to learn new things again w.r.t Data Science 
+* I have experience about 7+ expeience in teaching domain as Assistant Professor
+
+* I have good experience in R&D domain also
+
+* Most importantly as years passing on I am gaining patience and thirst to learn new things again w.r.t Data Science 
 
 **About my graduates,**
 
-Currently pursing my PhD in the field of Biomedical Application
-Completed my Post Graduate in Power Electronics in Rajalakshmi Engineering College, Chennai
-Completed my Under Graduate in Electronics and Communication Engineering in Amrita School of Engineering, Bangalore
-Degree is just for the society, but have an intention to learn new things to crack something new to the society (sounds weird and usual but its my intention)
+* Currently pursing my PhD in the field of Biomedical Application
+
+* Completed my Post Graduate in Power Electronics in Rajalakshmi Engineering College, Chennai
+
+* Completed my Under Graduate in Electronics and Communication Engineering in Amrita School of Engineering, Bangalore
+
+* Degree is just for the society, but have an intention to learn new things to crack something new to the society (sounds weird and usual but its my intention)
 
 **About my interest,**
 
