@@ -2,22 +2,24 @@
 
 **About me in short,**
 
-I am Premanand S, Researcher / Teacher by profession. Love to teach and also love to learn alot for knowledge gaining especailly wrt Data Science domain.
+I am Premanand S, Researcher / Teacher by profession. Love to teach and also love to learn alot for knowledge gaining especailly wrt Data Science domain. Lastly a complete FAMILY man. 
 
 **About my experience,**
 
 I have experience about 7+ expeience in teaching domain as Assistant Professor
 I have good experience in R&D domain also
+Most importantly as years passing on I am gaining patience and thirst to learn new things again w.r.t Data Science 
 
 **About my graduates,**
 
 Currently pursing my PhD in the field of Biomedical Application
 Completed my Post Graduate in Power Electronics in Rajalakshmi Engineering College, Chennai
 Completed my Under Graduate in Electronics and Communication Engineering in Amrita School of Engineering, Bangalore
+Degree is just for the society, but have an intention to learn new things to crack something new to the society (sounds weird and usual but its my intention)
 
 **About my interest,**
 
-Got addiction in learning Statistics, Machine Learning and Python, You can ask me Deep Learning (Its on process) 
+Got addiction in learning Statistics (not again after schoolong but for Data Science), Machine Learning and Python, You can ask me Deep Learning? (Ans: Its on process) 
 
 **About my hobbies,**
 
@@ -25,7 +27,11 @@ Got addiction in learning Statistics, Machine Learning and Python, You can ask m
 
 * Scribbling (in Tamil i call it as KIRUKKAL) 
 
-* Cooking (sometimes feedback makes me budding chef too) 
+* Drawing with my BHUBHU
+
+* Exploring new things like learning from our society what to do and what not to do? (looks silly but many dont have this habit)
+
+* Cooking (sometimes feedback makes me to think budding chef too) 
 
 * during pandemic time its full time with my son (literally he is not leaving me alone)
 
