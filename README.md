@@ -63,7 +63,7 @@ and lastly driving out with my family
 - 🔭 I’m currently working on Machine Learning in Biomedical Signal especailly in ElectroCardioGram (ECG)
 - 🌱 I’m currently learning Machine Learning & Deep Learning yet to start
 - 📫 How to reach me: Either you can mail me to er.anandprem@gmail.com or call me to +91-7358679961  
-- ⚡ Fun fact #1: Visit my website www.tango-learning.com
+- ⚡ Fun fact #1: Visit my website www.anandsdata.com
 - ⚡ Fun fact #2: Visit my YouTube https://www.youtube.com/channel/UC8te9uQc0GTUfUqXYLg2xhw (tango learning)
 - ⚡ Fun fact #3: Visit my Telegram Group https://t.me/tangolearners to know about Data Science and Machine Learning with Python 
  
