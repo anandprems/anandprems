@@ -32,15 +32,13 @@ Got addiction in learning Statistics (not again after schoolong but for Data Sci
 
 * Scribbling (in Tamil i call it as KIRUKKAL) 
 
-* Drawing with my BHUBHU
+* Drawing with my BHUBHUs
 
 * Exploring new things like learning from our society what to do and what not to do? (looks silly but many dont have this habit)
 
 * Cooking (sometimes feedback makes me to think budding chef too) 
 
-* during pandemic time its full time with my son (literally he is not leaving me alone)
-
-* last but not the least music lover (especially OSTs or in local we call it as BGMs) 
+* last but not the least music lover (especially OSTs or in local we call it as BGMs). ARR Veriyan and Hanz Zimmer  
 
 and lastly driving out with my family
 
