@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**About me in short,**
-
 I am Premanand S, Researcher / Teacher by profession. Love to teach and also love to learn alot for knowledge gaining especailly wrt Data Science domain. Lastly a complete FAMILY man. 
 
 **About my experience,**
