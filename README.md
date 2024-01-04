@@ -8,7 +8,7 @@ I am Premanand S, Researcher / Teacher by profession. Love to teach and also lov
 
 * I have good experience in R&D domain also
 
-* Most importantly as years passing on I am gaining patience and thirst to learn new things again w.r.t Data Science 
+* Most importantly as years passing on I am gaining patience and thirst to learn new things again w.r.t Data Science and now C programming language!
 
 **About my graduates,**
 
