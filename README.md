@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **Either you can mail me at er.anandprem@gmail.com or call me at +91-7358679961**
 
+- 📄 Know about my experiences [https://linktr.ee/anandsdata](https://linktr.ee/anandsdata)
+
 - ⚡ Fun fact **YouTuber (Occasionally), Scribbling (in Tamil, we call it as KIRUKKAL). Draw along with my BHUBHUs. Exploring new things like learning from our society what to do and what not to do? (looks silly, but many don't have this habit). I love to Cook (sometimes feedback makes me think budding chef too). Lastly but not least, music lovers (especially OSTs or, locally we call it BGMs). ThalaivARR Veriyan and Hanz Zimmer and lastly, driving out with my family.**
 
 <h3 align="left">Connect with me:</h3>
