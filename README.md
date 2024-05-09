@@ -44,22 +44,17 @@ and lastly, driving out with my family
 
 * Special word before my name - "Dr."
 
-* One unique book with good recognition in Data Science related
+* One unique book with good recognition in Python and Data Science
 
-* Good teacher
+* Good teacher and also good learner
 
-* Abroad visit exclusively for education-related, excluding family trips that's another goal
-
-* One lovely house with one car
-
-* lastly, a good father and a good family man to be happy and to make happy
+* Abroad visit exclusively for education-related, excluding family trips thats another goal
 
 **Some points to be added,**
 
-- 🔭 I’m currently working on Machine Learning in Biomedical Signals especailly in ElectroCardioGram (ECG)
-- 📫 How to reach me: Either you can mail me at er.anandprem@gmail.com or call me to +91-7358679961  
-- ⚡ Fun fact #1: Visit my website https://anandsdata.wixsite.com/blog 
-- ⚡ Fun fact #2: Visit my YouTube https://www.youtube.com/channel/UC8te9uQc0GTUfUqXYLg2xhw (anandsdataX)
+- 🔭 I’m currently working on Machine Learning in Biomedical Signals especially in ElectroCardioGram (ECG)
+- 📫 How to reach me: Either you can mail me at er.anandprem@gmail.com or call me at +91-7358679961  
+- ⚡ Fun fact #1: Visit my YouTube https://www.youtube.com/channel/UC8te9uQc0GTUfUqXYLg2xhw (anandsdataX)
 - 📫 Let's connect through LinkedIn: https://www.linkedin.com/in/premsanand/
 
 
