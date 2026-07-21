@@ -258,3 +258,7 @@ https://linkedin.com/in/premsanand
 ⭐ If you like my work, consider starring my repositories!
 
 </div>
+
+![snake gif](https://github.com/anandprems/anandprems/blob/output/github-contribution-grid-snake.svg)
+
+https://github-readme-activity-graph.vercel.app
