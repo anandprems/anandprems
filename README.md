@@ -16,24 +16,57 @@
 
 # 👨‍💻 About Me
 
-🎓 Assistant Professor & AI Researcher
 
-❤️ Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Biomedical Signal Processing and ECG Analytics**
+🎓 **Assistant Professor**  
+**Department of Computational Intelligence**  
+**SRM Institute of Science and Technology (SRMIST)**  
+**Kattankulathur Campus, Chennai, India**
 
-📚 I enjoy simplifying complex AI concepts for students.
+🔬 AI Researcher specializing in **Machine Learning, Deep Learning, Biomedical Signal Processing, and Healthcare AI**.
 
-🎥 Founder of **ByteClassroom**, where I teach Programming, Machine Learning and AI.
+❤️ Passionate about transforming complex AI concepts into simple, practical learning experiences for students and researchers.
 
-🧠 Currently working on
+🎥 Founder of **ByteClassroom**, where I create educational content on Python, Data Science, Machine Learning, Deep Learning, Generative AI, and AI Research.
 
-- Deep Learning for ECG Signal Classification
-- Biomedical Signal Analytics
-- Vision Transformers
-- Explainable AI
-- Generative AI
-- Medical AI
+📚 I believe in **learning by building**, **teaching by simplifying**, and **research by solving real-world problems**.
 
 ---
+
+## 🚀 Currently Working On
+
+- 🫀 Deep Learning Architectures for ECG Signal Classification
+- 🤖 Explainable Artificial Intelligence (XAI)
+- 🧠 Vision Transformers & Hybrid Deep Learning Models
+- 📊 Biomedical Signal Analytics
+- 🏥 AI Applications in Healthcare
+- 🎓 AI Education & Open Learning Resources
+- 📖 Writing research papers, book chapters, and technical tutorials
+
+---
+
+## 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- AI Agents & Agentic AI
+- Multimodal AI
+- Medical Foundation Models
+- Generative AI Applications
+- MLOps & AI Deployment
+
+---
+
+## 💬 Ask Me About
+
+- Python Programming
+- Statistics
+- Data Science
+- Machine Learning
+- Deep Learning
+- ECG Signal Processing
+- Computer Vision
+- Research Methodology
+- Academic Writing
+- Generative AI
 
 # 🔬 Research Interests
 
