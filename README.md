@@ -2,17 +2,19 @@
 
 # 👋 Hi, I'm Premanand S
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+Researcher;Assistant+Professor;Machine+Learning+Engineer;Deep+Learning+Researcher;ECG+Signal+Analysis;Python+Educator;Founder+of+ByteClassroom" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Assistant+Professor+@+SRMIST;AI+Researcher;Machine+Learning+Engineer;Deep+Learning+Researcher;Biomedical+AI;Founder+of+ByteClassroom;Python+Educator;Lifelong+Learner" />
 
-### 🚀 Researcher • Educator • Content Creator • Lifelong Learner
+### Assistant Professor • AI Researcher • Educator • Content Creator
 
-*"Teaching is my passion. Research is my curiosity. Learning is my lifestyle."*
+**Department of Computational Intelligence**  
+**SRM Institute of Science and Technology (SRMIST)**  
+**Kattankulathur Campus, Chennai, India**
 
-<img src="https://komarev.com/ghpvc/?username=anandprems&label=Visitors&color=0e75b6&style=flat"/>
+*"Teaching inspires minds. Research creates impact. Learning never ends."*
+
+<img src="https://komarev.com/ghpvc/?username=anandprems&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
-
----
 
 # 👨‍💻 About Me
 
