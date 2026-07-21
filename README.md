@@ -163,16 +163,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anandprems&theme=onedark&row=2&column=4"/>
-
-</p>
-
----
-
 # 📚 Latest Research
 
 ✔ BlendNet: Blending-based CNN for ECG Signal Classification
@@ -258,7 +248,3 @@ https://linkedin.com/in/premsanand
 ⭐ If you like my work, consider starring my repositories!
 
 </div>
-
-![snake gif](https://github.com/anandprems/anandprems/blob/output/github-contribution-grid-snake.svg)
-
-https://github-readme-activity-graph.vercel.app
